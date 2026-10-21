@@ -4,7 +4,7 @@
 Tech lead by day, indie builder by night. Creator of Xiaosheng Weipai and a fan of Punk. I build with AI and share the code, tools, wins, and lessons along the way.
 
 <a href="https://github.com/LanyXiaosheng?tab=repositories"><img src="https://img.shields.io/github/stars/LanyXiaosheng?style=for-the-badge&amp;logo=github&amp;label=TOTAL%20STARS&amp;color=D8FF00&amp;labelColor=20231B" alt="GitHub total stars"></a>
-<a href="https://github.com/LanyXiaosheng?tab=followers"><img src="https://img.shields.io/github/followers/LanyXiaosheng?style=for-the-badge&amp;logo=github&amp;label=FOLLOWERS&amp;color=D8FF00&amp;labelColor=20231B" alt="GitHub followers"></a>
+<a href="https://github.com/LanyXiaosheng?tab=repositories"><img src="https://img.shields.io/badge/FEATURED-4%20PROJECTS-D8FF00?style=for-the-badge&amp;logo=github&amp;labelColor=20231B" alt="4 featured projects"></a>
 <a href="https://app.lanyxiaosheng.com"><img src="https://img.shields.io/badge/TRY-小生微排-D8FF00?style=for-the-badge&amp;labelColor=20231B" alt="体验小生微排"></a>
 <a href="https://x.com/LanyXiaosheng"><img src="https://img.shields.io/badge/@LanyXiaosheng-0A0A0A?style=for-the-badge&amp;logo=x&amp;logoColor=D8FF00" alt="X @LanyXiaosheng"></a>
 
